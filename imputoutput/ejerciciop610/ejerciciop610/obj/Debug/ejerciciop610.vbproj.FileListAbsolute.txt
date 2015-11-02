@@ -1,0 +1,10 @@
+c:\users\lenovo\documents\visual studio 2015\Projects\imputoutput\ejerciciop610\ejerciciop610\bin\Debug\ejerciciop610.exe.config
+c:\users\lenovo\documents\visual studio 2015\Projects\imputoutput\ejerciciop610\ejerciciop610\obj\Debug\ejerciciop610.vbprojResolveAssemblyReference.cache
+c:\users\lenovo\documents\visual studio 2015\Projects\imputoutput\ejerciciop610\ejerciciop610\obj\Debug\ejerciciop610.Resources.resources
+c:\users\lenovo\documents\visual studio 2015\Projects\imputoutput\ejerciciop610\ejerciciop610\obj\Debug\ejerciciop610.vbproj.GenerateResource.Cache
+c:\users\lenovo\documents\visual studio 2015\Projects\imputoutput\ejerciciop610\ejerciciop610\obj\Debug\ejerciciop610.xml
+C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\imputoutput\ejerciciop610\ejerciciop610\bin\Debug\ejerciciop610.exe
+C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\imputoutput\ejerciciop610\ejerciciop610\bin\Debug\ejerciciop610.pdb
+C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\imputoutput\ejerciciop610\ejerciciop610\bin\Debug\ejerciciop610.xml
+C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\imputoutput\ejerciciop610\ejerciciop610\obj\Debug\ejerciciop610.exe
+C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\imputoutput\ejerciciop610\ejerciciop610\obj\Debug\ejerciciop610.pdb

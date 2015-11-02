@@ -1,0 +1,10 @@
+c:\users\lenovo\documents\visual studio 2015\Projects\imputoutput\ejercicioP6E20\ejercicioP6E20\bin\Debug\ejercicioP6E20.exe.config
+c:\users\lenovo\documents\visual studio 2015\Projects\imputoutput\ejercicioP6E20\ejercicioP6E20\bin\Debug\ejercicioP6E20.exe
+c:\users\lenovo\documents\visual studio 2015\Projects\imputoutput\ejercicioP6E20\ejercicioP6E20\bin\Debug\ejercicioP6E20.pdb
+c:\users\lenovo\documents\visual studio 2015\Projects\imputoutput\ejercicioP6E20\ejercicioP6E20\bin\Debug\ejercicioP6E20.xml
+c:\users\lenovo\documents\visual studio 2015\Projects\imputoutput\ejercicioP6E20\ejercicioP6E20\obj\Debug\ejercicioP6E20.vbprojResolveAssemblyReference.cache
+c:\users\lenovo\documents\visual studio 2015\Projects\imputoutput\ejercicioP6E20\ejercicioP6E20\obj\Debug\ejercicioP6E20.Resources.resources
+c:\users\lenovo\documents\visual studio 2015\Projects\imputoutput\ejercicioP6E20\ejercicioP6E20\obj\Debug\ejercicioP6E20.vbproj.GenerateResource.Cache
+c:\users\lenovo\documents\visual studio 2015\Projects\imputoutput\ejercicioP6E20\ejercicioP6E20\obj\Debug\ejercicioP6E20.exe
+c:\users\lenovo\documents\visual studio 2015\Projects\imputoutput\ejercicioP6E20\ejercicioP6E20\obj\Debug\ejercicioP6E20.xml
+c:\users\lenovo\documents\visual studio 2015\Projects\imputoutput\ejercicioP6E20\ejercicioP6E20\obj\Debug\ejercicioP6E20.pdb
