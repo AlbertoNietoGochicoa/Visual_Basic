@@ -1,0 +1,10 @@
+D:\Desarollo de sistemas\GITHUB\Visual_Basic\ejercicioU2P630\ejercicioU2P630\bin\Debug\ejercicioU2P630.exe.config
+D:\Desarollo de sistemas\GITHUB\Visual_Basic\ejercicioU2P630\ejercicioU2P630\bin\Debug\ejercicioU2P630.exe
+D:\Desarollo de sistemas\GITHUB\Visual_Basic\ejercicioU2P630\ejercicioU2P630\bin\Debug\ejercicioU2P630.pdb
+D:\Desarollo de sistemas\GITHUB\Visual_Basic\ejercicioU2P630\ejercicioU2P630\bin\Debug\ejercicioU2P630.xml
+D:\Desarollo de sistemas\GITHUB\Visual_Basic\ejercicioU2P630\ejercicioU2P630\obj\Debug\ejercicioU2P630.vbprojResolveAssemblyReference.cache
+D:\Desarollo de sistemas\GITHUB\Visual_Basic\ejercicioU2P630\ejercicioU2P630\obj\Debug\ejercicioU2P630.Resources.resources
+D:\Desarollo de sistemas\GITHUB\Visual_Basic\ejercicioU2P630\ejercicioU2P630\obj\Debug\ejercicioU2P630.vbproj.GenerateResource.Cache
+D:\Desarollo de sistemas\GITHUB\Visual_Basic\ejercicioU2P630\ejercicioU2P630\obj\Debug\ejercicioU2P630.exe
+D:\Desarollo de sistemas\GITHUB\Visual_Basic\ejercicioU2P630\ejercicioU2P630\obj\Debug\ejercicioU2P630.xml
+D:\Desarollo de sistemas\GITHUB\Visual_Basic\ejercicioU2P630\ejercicioU2P630\obj\Debug\ejercicioU2P630.pdb
