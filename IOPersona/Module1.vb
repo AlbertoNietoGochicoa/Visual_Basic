@@ -42,54 +42,65 @@ Module Module1
 
     End Sub
     Sub introducirPersona()
-        ' Try
+
         Dim sw As New StreamWriter(path, True)
-        Dim per As persona
-
-        Console.WriteLine(vbCrLf + "Escribe el nombre de la persona a guardar: ")
-        per.nombre = Console.ReadLine
-        Console.WriteLine(vbCrLf + "Escribe la direccion de la persona: ")
-        per.direccion = Console.ReadLine
-        Console.WriteLine(vbCrLf + "Escribe el telefono : ")
+            Dim per As persona
         Try
-            per.telefono = Integer.Parse(Console.ReadLine)
+            Console.WriteLine(vbCrLf + "Escribe el nombre de la persona a guardar: ")
+            per.nombre = Console.ReadLine
+            Console.WriteLine(vbCrLf + "Escribe la direccion de la persona: ")
+            per.direccion = Console.ReadLine
+            Console.WriteLine(vbCrLf + "Escribe el telefono : ")
+            Try
+                per.telefono = Integer.Parse(Console.ReadLine)
 
+            Catch ex As Exception
+                Console.WriteLine("Tenias que intoducir un numero!!")
+            End Try
+            Console.WriteLine(vbCrLf + "Escribe el correo electronico : ")
+            per.correo = Console.ReadLine
+
+            sw.WriteLine("Nombre: " + per.nombre)
+            sw.WriteLine("Direccion: " + per.direccion)
+            Try
+                sw.WriteLine("Telefono: " + Integer.Parse(per.telefono))
+            Catch ex As Exception
+            End Try
+            sw.WriteLine("Correo electronico: " + per.correo)
+            sw.WriteLine("________________________________________________________________________________" + vbCrLf)
         Catch ex As Exception
-            Console.WriteLine("Tenias que intoducir un numero!!")
+
         End Try
-        Console.WriteLine(vbCrLf + "Escribe el correo electronico : ")
-        per.correo = Console.ReadLine
-
-        sw.Write(per.)
-        sw.WriteLine("________________________________________________________________________________")
-        'Catch ex As Exception
-
-        'End Try
         sw.Close()
+        Console.WriteLine("Persona guardada correctamente!!!" + vbCrLf)
     End Sub
 
     Sub leerPersonas()
-        'Try
-
         Dim sr As New StreamReader(path)
-        Console.WriteLine(sr.ReadLine)
-        'Catch ex As IOException
-        'Console.WriteLine("IO exception!!!")
-        ' Catch ex As Exception
-        'Console.WriteLine("ERROR, salto la excepcion!!!")
-        'End Try
-        sr.Close()
+        Try
+            Console.Clear()
+
+            Console.WriteLine(SR.ReadToEnd)
+        Catch ex As IOException
+            Console.WriteLine("IO exception!!!")
+        Catch ex As Exception
+            Console.WriteLine("ERROR, salto la excepcion!!!")
+        End Try
+        SR.Close()
+    End Sub
+    Sub borrarArchivo()
+        Dim sw As New StreamWriter(path, False)
+        sw.Write("")
+        sw.Close()
     End Sub
 
     Sub Main()
-
+        borrarArchivo()
         Console.Write("Muy buenas, bienvenido a la base de datos 2.0!!" + vbCrLf)
 
         Do
             introducirPersona()
             leerPersonas()
-
-
             continuar()
         Loop While (cont)
         pausar()
