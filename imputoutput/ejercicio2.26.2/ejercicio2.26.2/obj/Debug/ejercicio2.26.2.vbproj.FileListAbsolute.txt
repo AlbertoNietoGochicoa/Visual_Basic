@@ -1,1 +1,10 @@
 C:\Users\gyga\Documents\GitHub\Visual_Basic\imputoutput\ejercicio2.26.2\ejercicio2.26.2\bin\Debug\ejercicio2.26.2.exe.config
+C:\Users\gyga\Documents\GitHub\Visual_Basic\imputoutput\ejercicio2.26.2\ejercicio2.26.2\bin\Debug\ejercicio2.26.2.exe
+C:\Users\gyga\Documents\GitHub\Visual_Basic\imputoutput\ejercicio2.26.2\ejercicio2.26.2\bin\Debug\ejercicio2.26.2.pdb
+C:\Users\gyga\Documents\GitHub\Visual_Basic\imputoutput\ejercicio2.26.2\ejercicio2.26.2\bin\Debug\ejercicio2.26.2.xml
+C:\Users\gyga\Documents\GitHub\Visual_Basic\imputoutput\ejercicio2.26.2\ejercicio2.26.2\obj\Debug\ejercicio2.26.2.vbprojResolveAssemblyReference.cache
+C:\Users\gyga\Documents\GitHub\Visual_Basic\imputoutput\ejercicio2.26.2\ejercicio2.26.2\obj\Debug\ejercicio2._26._2.Resources.resources
+C:\Users\gyga\Documents\GitHub\Visual_Basic\imputoutput\ejercicio2.26.2\ejercicio2.26.2\obj\Debug\ejercicio2.26.2.vbproj.GenerateResource.Cache
+C:\Users\gyga\Documents\GitHub\Visual_Basic\imputoutput\ejercicio2.26.2\ejercicio2.26.2\obj\Debug\ejercicio2.26.2.exe
+C:\Users\gyga\Documents\GitHub\Visual_Basic\imputoutput\ejercicio2.26.2\ejercicio2.26.2\obj\Debug\ejercicio2.26.2.xml
+C:\Users\gyga\Documents\GitHub\Visual_Basic\imputoutput\ejercicio2.26.2\ejercicio2.26.2\obj\Debug\ejercicio2.26.2.pdb

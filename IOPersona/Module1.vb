@@ -51,12 +51,17 @@ Module Module1
             Console.WriteLine(vbCrLf + "Escribe la direccion de la persona: ")
             per.direccion = Console.ReadLine
             Console.WriteLine(vbCrLf + "Escribe el telefono : ")
+            Dim numtel As Integer
             Try
-                per.telefono = Integer.Parse(Console.ReadLine)
+                numtel = Integer.Parse(Console.ReadLine)
 
             Catch ex As Exception
                 Console.WriteLine("Tenias que intoducir un numero!!")
             End Try
+            'pasamos el numero de telefono a string
+            per.telefono = String(numtel)
+
+
             Console.WriteLine(vbCrLf + "Escribe el correo electronico : ")
             per.correo = Console.ReadLine
 
