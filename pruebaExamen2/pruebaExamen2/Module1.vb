@@ -29,6 +29,16 @@
             Console.WriteLine("Numero:-> " & array(i))
             System.Threading.Thread.Sleep(300)
         Next
+
+        Console.WriteLine(vbCrLf & "Ahora del reves")
+
+        'mirar como se puede hacer que esto de abajo funcione!!
+        For i = array.Length To 0
+            Console.WriteLine("Numero:-> " & array(i))
+            System.Threading.Thread.Sleep(300)
+        Next
+
+
     End Sub
 
     Sub imprimirMaxMin()
