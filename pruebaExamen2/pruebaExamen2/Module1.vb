@@ -18,7 +18,7 @@
 
     Sub rellenarArray()
         'Se rellena el array con valores aleatorios entre el 0 y el 500
-        For i = 0 To (num - 1)
+        For i = 0 To (num)
             array(i) = rnd.Next(0, 501)
         Next
 
