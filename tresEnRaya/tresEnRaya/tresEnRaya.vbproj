@@ -4,11 +4,11 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{A064C267-48FA-4548-9373-D10838CE0FB9}</ProjectGuid>
+    <ProjectGuid>{DF692D62-FC6A-42C8-B357-A8725633BEEB}</ProjectGuid>
     <OutputType>WinExe</OutputType>
-    <StartupObject>formularios2.My.MyApplication</StartupObject>
-    <RootNamespace>formularios2</RootNamespace>
-    <AssemblyName>formularios2</AssemblyName>
+    <StartupObject>tresEnRaya.My.MyApplication</StartupObject>
+    <RootNamespace>tresEnRaya</RootNamespace>
+    <AssemblyName>tresEnRaya</AssemblyName>
     <FileAlignment>512</FileAlignment>
     <MyType>WindowsForms</MyType>
     <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
@@ -21,7 +21,7 @@
     <DefineDebug>true</DefineDebug>
     <DefineTrace>true</DefineTrace>
     <OutputPath>bin\Debug\</OutputPath>
-    <DocumentationFile>formularios2.xml</DocumentationFile>
+    <DocumentationFile>tresEnRaya.xml</DocumentationFile>
     <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
@@ -31,7 +31,7 @@
     <DefineTrace>true</DefineTrace>
     <Optimize>true</Optimize>
     <OutputPath>bin\Release\</OutputPath>
-    <DocumentationFile>formularios2.xml</DocumentationFile>
+    <DocumentationFile>tresEnRaya.xml</DocumentationFile>
     <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
   </PropertyGroup>
   <PropertyGroup>
