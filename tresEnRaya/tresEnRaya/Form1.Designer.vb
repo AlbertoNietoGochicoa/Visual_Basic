@@ -22,7 +22,7 @@ Partial Class Form1
     'No lo modifique con el editor de código.
     <System.Diagnostics.DebuggerStepThrough()> _
     Private Sub InitializeComponent()
-        Me.bot1 = New System.Windows.Forms.Button()
+        Me.botRojo = New System.Windows.Forms.Button()
         Me.cas1 = New System.Windows.Forms.Button()
         Me.cas2 = New System.Windows.Forms.Button()
         Me.cas3 = New System.Windows.Forms.Button()
@@ -30,21 +30,21 @@ Partial Class Form1
         Me.cas5 = New System.Windows.Forms.Button()
         Me.cas4 = New System.Windows.Forms.Button()
         Me.cas7 = New System.Windows.Forms.Button()
-        Me.bot2 = New System.Windows.Forms.Button()
+        Me.botAzul = New System.Windows.Forms.Button()
         Me.cas6 = New System.Windows.Forms.Button()
         Me.cas9 = New System.Windows.Forms.Button()
         Me.titulo = New System.Windows.Forms.Label()
         Me.SuspendLayout()
         '
-        'bot1
+        'botRojo
         '
-        Me.bot1.BackColor = System.Drawing.Color.Red
-        Me.bot1.Location = New System.Drawing.Point(55, 124)
-        Me.bot1.Name = "bot1"
-        Me.bot1.Size = New System.Drawing.Size(133, 35)
-        Me.bot1.TabIndex = 0
-        Me.bot1.Text = "Jugador1"
-        Me.bot1.UseVisualStyleBackColor = False
+        Me.botRojo.BackColor = System.Drawing.Color.Red
+        Me.botRojo.Location = New System.Drawing.Point(55, 124)
+        Me.botRojo.Name = "botRojo"
+        Me.botRojo.Size = New System.Drawing.Size(133, 35)
+        Me.botRojo.TabIndex = 0
+        Me.botRojo.Text = "Jugador1"
+        Me.botRojo.UseVisualStyleBackColor = False
         '
         'cas1
         '
@@ -102,15 +102,15 @@ Partial Class Form1
         Me.cas7.TabIndex = 7
         Me.cas7.UseVisualStyleBackColor = True
         '
-        'bot2
+        'botAzul
         '
-        Me.bot2.BackColor = System.Drawing.Color.Blue
-        Me.bot2.Location = New System.Drawing.Point(261, 124)
-        Me.bot2.Name = "bot2"
-        Me.bot2.Size = New System.Drawing.Size(129, 35)
-        Me.bot2.TabIndex = 8
-        Me.bot2.Text = "Jugador2"
-        Me.bot2.UseVisualStyleBackColor = False
+        Me.botAzul.BackColor = System.Drawing.Color.Blue
+        Me.botAzul.Location = New System.Drawing.Point(261, 124)
+        Me.botAzul.Name = "botAzul"
+        Me.botAzul.Size = New System.Drawing.Size(129, 35)
+        Me.botAzul.TabIndex = 8
+        Me.botAzul.Text = "Jugador2"
+        Me.botAzul.UseVisualStyleBackColor = False
         '
         'cas6
         '
@@ -146,7 +146,7 @@ Partial Class Form1
         Me.Controls.Add(Me.titulo)
         Me.Controls.Add(Me.cas9)
         Me.Controls.Add(Me.cas6)
-        Me.Controls.Add(Me.bot2)
+        Me.Controls.Add(Me.botAzul)
         Me.Controls.Add(Me.cas7)
         Me.Controls.Add(Me.cas4)
         Me.Controls.Add(Me.cas5)
@@ -154,7 +154,7 @@ Partial Class Form1
         Me.Controls.Add(Me.cas3)
         Me.Controls.Add(Me.cas2)
         Me.Controls.Add(Me.cas1)
-        Me.Controls.Add(Me.bot1)
+        Me.Controls.Add(Me.botRojo)
         Me.Name = "Form1"
         Me.Text = "Form1"
         Me.ResumeLayout(False)
@@ -162,7 +162,7 @@ Partial Class Form1
 
     End Sub
 
-    Friend WithEvents bot1 As Button
+    Friend WithEvents botRojo As Button
     Friend WithEvents cas1 As Button
     Friend WithEvents cas2 As Button
     Friend WithEvents cas3 As Button
@@ -170,7 +170,7 @@ Partial Class Form1
     Friend WithEvents cas5 As Button
     Friend WithEvents cas4 As Button
     Friend WithEvents cas7 As Button
-    Friend WithEvents bot2 As Button
+    Friend WithEvents botAzul As Button
     Friend WithEvents cas6 As Button
     Friend WithEvents cas9 As Button
     Friend WithEvents titulo As Label
